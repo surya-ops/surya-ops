@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning MERN stack build and typescript!
 - 💞️ I’m looking to collaborate on my mini projects.
 - 📫 How to reach me ...
-      mail- suryakantsubudhi@protonmail.com
+      mail- suryakantsubudhi@protonmail.com or
             subudhisuryakant@gmail.com
-      instagram - _sourbites_
- -💻 Studying in Jawahar navodaya vidyalaya, panikoili, jajpur.
+-      instagram - _sourbites_
+-💻 Studying in Jawahar navodaya vidyalaya, panikoili, jajpur.
 
 <!---
 surya-ops/surya-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
